@@ -1,0 +1,502 @@
+[
+  {
+    "id": "u_archer",
+    "source": "cards/u_archer.png",
+    "runtime": "assets/cards/u_archer.webp",
+    "ratio": "5:7",
+    "minWidth": 1080,
+    "batch": 1,
+    "status": "requested",
+    "safeZone": "Keep face, hands and identifying silhouette inside central 76%; keep bottom 20% quiet."
+  },
+  {
+    "id": "u_cavalry",
+    "source": "cards/u_cavalry.png",
+    "runtime": "assets/cards/u_cavalry.webp",
+    "ratio": "5:7",
+    "minWidth": 1080,
+    "batch": 1,
+    "status": "requested",
+    "safeZone": "Keep face, hands and identifying silhouette inside central 76%; keep bottom 20% quiet."
+  },
+  {
+    "id": "u_horse_archer",
+    "source": "cards/u_horse_archer.png",
+    "runtime": "assets/cards/u_horse_archer.webp",
+    "ratio": "5:7",
+    "minWidth": 1080,
+    "batch": 1,
+    "status": "requested",
+    "safeZone": "Keep face, hands and identifying silhouette inside central 76%; keep bottom 20% quiet."
+  },
+  {
+    "id": "u_pikeman",
+    "source": "cards/u_pikeman.png",
+    "runtime": "assets/cards/u_pikeman.webp",
+    "ratio": "5:7",
+    "minWidth": 1080,
+    "batch": 1,
+    "status": "requested",
+    "safeZone": "Keep face, hands and identifying silhouette inside central 76%; keep bottom 20% quiet."
+  },
+  {
+    "id": "u_lancer",
+    "source": "cards/u_lancer.png",
+    "runtime": "assets/cards/u_lancer.webp",
+    "ratio": "5:7",
+    "minWidth": 1080,
+    "batch": 1,
+    "status": "requested",
+    "safeZone": "Keep face, hands and identifying silhouette inside central 76%; keep bottom 20% quiet."
+  },
+  {
+    "id": "u_swordsman",
+    "source": "cards/u_swordsman.png",
+    "runtime": "assets/cards/u_swordsman.webp",
+    "ratio": "5:7",
+    "minWidth": 1080,
+    "batch": 1,
+    "status": "requested",
+    "safeZone": "Keep face, hands and identifying silhouette inside central 76%; keep bottom 20% quiet."
+  },
+  {
+    "id": "u_knight",
+    "source": "cards/u_knight.png",
+    "runtime": "assets/cards/u_knight.webp",
+    "ratio": "5:7",
+    "minWidth": 1080,
+    "batch": 1,
+    "status": "requested",
+    "safeZone": "Keep face, hands and identifying silhouette inside central 76%; keep bottom 20% quiet."
+  },
+  {
+    "id": "g_timber",
+    "source": "fort/g_timber.png",
+    "runtime": "assets/fort/g_timber.webp",
+    "ratio": "1:1",
+    "minWidth": 1024,
+    "batch": 1,
+    "status": "requested",
+    "safeZone": "Keep focal details away from edges and HUD overlays."
+  },
+  {
+    "id": "g_armoured",
+    "source": "fort/g_armoured.png",
+    "runtime": "assets/fort/g_armoured.webp",
+    "ratio": "1:1",
+    "minWidth": 1024,
+    "batch": 1,
+    "status": "requested",
+    "safeZone": "Keep focal details away from edges and HUD overlays."
+  },
+  {
+    "id": "g_thorn",
+    "source": "fort/g_thorn.png",
+    "runtime": "assets/fort/g_thorn.webp",
+    "ratio": "1:1",
+    "minWidth": 1024,
+    "batch": 1,
+    "status": "requested",
+    "safeZone": "Keep focal details away from edges and HUD overlays."
+  },
+  {
+    "id": "w_palisade",
+    "source": "fort/w_palisade.png",
+    "runtime": "assets/fort/w_palisade.webp",
+    "ratio": "1:1",
+    "minWidth": 1024,
+    "batch": 1,
+    "status": "requested",
+    "safeZone": "Keep focal details away from edges and HUD overlays."
+  },
+  {
+    "id": "b_foundry_road",
+    "source": "battlefields/b_foundry_road.png",
+    "runtime": "assets/battlefields/b_foundry_road.webp",
+    "ratio": "16:9",
+    "minWidth": 2560,
+    "batch": 1,
+    "status": "requested",
+    "safeZone": "Keep focal details away from edges and HUD overlays."
+  },
+  {
+    "id": "b_copper_crossing",
+    "source": "battlefields/b_copper_crossing.png",
+    "runtime": "assets/battlefields/b_copper_crossing.webp",
+    "ratio": "16:9",
+    "minWidth": 2560,
+    "batch": 1,
+    "status": "requested",
+    "safeZone": "Keep focal details away from edges and HUD overlays."
+  },
+  {
+    "id": "t_change_standard",
+    "source": "tactics/t_change_standard.png",
+    "runtime": "assets/tactics/t_change_standard.webp",
+    "ratio": "5:7",
+    "minWidth": 1080,
+    "batch": 2,
+    "status": "requested",
+    "safeZone": "Keep face, hands and identifying silhouette inside central 76%; keep bottom 20% quiet."
+  },
+  {
+    "id": "t_field_rest",
+    "source": "tactics/t_field_rest.png",
+    "runtime": "assets/tactics/t_field_rest.webp",
+    "ratio": "5:7",
+    "minWidth": 1080,
+    "batch": 2,
+    "status": "requested",
+    "safeZone": "Keep face, hands and identifying silhouette inside central 76%; keep bottom 20% quiet."
+  },
+  {
+    "id": "t_shield_screen",
+    "source": "tactics/t_shield_screen.png",
+    "runtime": "assets/tactics/t_shield_screen.webp",
+    "ratio": "5:7",
+    "minWidth": 1080,
+    "batch": 2,
+    "status": "requested",
+    "safeZone": "Keep face, hands and identifying silhouette inside central 76%; keep bottom 20% quiet."
+  },
+  {
+    "id": "t_scout_ledger",
+    "source": "tactics/t_scout_ledger.png",
+    "runtime": "assets/tactics/t_scout_ledger.webp",
+    "ratio": "5:7",
+    "minWidth": 1080,
+    "batch": 2,
+    "status": "requested",
+    "safeZone": "Keep face, hands and identifying silhouette inside central 76%; keep bottom 20% quiet."
+  },
+  {
+    "id": "t_resupply",
+    "source": "tactics/t_resupply.png",
+    "runtime": "assets/tactics/t_resupply.webp",
+    "ratio": "5:7",
+    "minWidth": 1080,
+    "batch": 2,
+    "status": "requested",
+    "safeZone": "Keep face, hands and identifying silhouette inside central 76%; keep bottom 20% quiet."
+  },
+  {
+    "id": "t_fort_rally",
+    "source": "tactics/t_fort_rally.png",
+    "runtime": "assets/tactics/t_fort_rally.webp",
+    "ratio": "5:7",
+    "minWidth": 1080,
+    "batch": 2,
+    "status": "requested",
+    "safeZone": "Keep face, hands and identifying silhouette inside central 76%; keep bottom 20% quiet."
+  },
+  {
+    "id": "u_shield_guard",
+    "source": "cards/u_shield_guard.png",
+    "runtime": "assets/cards/u_shield_guard.webp",
+    "ratio": "5:7",
+    "minWidth": 1080,
+    "batch": 3,
+    "status": "requested",
+    "safeZone": "Keep face, hands and identifying silhouette inside central 76%; keep bottom 20% quiet."
+  },
+  {
+    "id": "u_longbowman",
+    "source": "cards/u_longbowman.png",
+    "runtime": "assets/cards/u_longbowman.webp",
+    "ratio": "5:7",
+    "minWidth": 1080,
+    "batch": 3,
+    "status": "requested",
+    "safeZone": "Keep face, hands and identifying silhouette inside central 76%; keep bottom 20% quiet."
+  },
+  {
+    "id": "u_pike_warden",
+    "source": "cards/u_pike_warden.png",
+    "runtime": "assets/cards/u_pike_warden.webp",
+    "ratio": "5:7",
+    "minWidth": 1080,
+    "batch": 3,
+    "status": "requested",
+    "safeZone": "Keep face, hands and identifying silhouette inside central 76%; keep bottom 20% quiet."
+  },
+  {
+    "id": "u_royal_horse_archer",
+    "source": "cards/u_royal_horse_archer.png",
+    "runtime": "assets/cards/u_royal_horse_archer.webp",
+    "ratio": "5:7",
+    "minWidth": 1080,
+    "batch": 3,
+    "status": "requested",
+    "safeZone": "Keep face, hands and identifying silhouette inside central 76%; keep bottom 20% quiet."
+  },
+  {
+    "id": "u_crown_lancer",
+    "source": "cards/u_crown_lancer.png",
+    "runtime": "assets/cards/u_crown_lancer.webp",
+    "ratio": "5:7",
+    "minWidth": 1080,
+    "batch": 3,
+    "status": "requested",
+    "safeZone": "Keep face, hands and identifying silhouette inside central 76%; keep bottom 20% quiet."
+  },
+  {
+    "id": "u_paladin",
+    "source": "cards/u_paladin.png",
+    "runtime": "assets/cards/u_paladin.webp",
+    "ratio": "5:7",
+    "minWidth": 1080,
+    "batch": 3,
+    "status": "requested",
+    "safeZone": "Keep face, hands and identifying silhouette inside central 76%; keep bottom 20% quiet."
+  },
+  {
+    "id": "u_banner_guard",
+    "source": "cards/u_banner_guard.png",
+    "runtime": "assets/cards/u_banner_guard.webp",
+    "ratio": "5:7",
+    "minWidth": 1080,
+    "batch": 3,
+    "status": "requested",
+    "safeZone": "Keep face, hands and identifying silhouette inside central 76%; keep bottom 20% quiet."
+  },
+  {
+    "id": "u_siege_bowman",
+    "source": "cards/u_siege_bowman.png",
+    "runtime": "assets/cards/u_siege_bowman.webp",
+    "ratio": "5:7",
+    "minWidth": 1080,
+    "batch": 3,
+    "status": "requested",
+    "safeZone": "Keep face, hands and identifying silhouette inside central 76%; keep bottom 20% quiet."
+  },
+  {
+    "id": "g_garrison",
+    "source": "fort/g_garrison.png",
+    "runtime": "assets/fort/g_garrison.webp",
+    "ratio": "1:1",
+    "minWidth": 1024,
+    "batch": 3,
+    "status": "requested",
+    "safeZone": "Keep focal details away from edges and HUD overlays."
+  },
+  {
+    "id": "g_bastion",
+    "source": "fort/g_bastion.png",
+    "runtime": "assets/fort/g_bastion.webp",
+    "ratio": "1:1",
+    "minWidth": 1024,
+    "batch": 3,
+    "status": "requested",
+    "safeZone": "Keep focal details away from edges and HUD overlays."
+  },
+  {
+    "id": "g_royal",
+    "source": "fort/g_royal.png",
+    "runtime": "assets/fort/g_royal.webp",
+    "ratio": "1:1",
+    "minWidth": 1024,
+    "batch": 3,
+    "status": "requested",
+    "safeZone": "Keep focal details away from edges and HUD overlays."
+  },
+  {
+    "id": "w_armoured",
+    "source": "fort/w_armoured.png",
+    "runtime": "assets/fort/w_armoured.webp",
+    "ratio": "1:1",
+    "minWidth": 1024,
+    "batch": 3,
+    "status": "requested",
+    "safeZone": "Keep focal details away from edges and HUD overlays."
+  },
+  {
+    "id": "w_thorn",
+    "source": "fort/w_thorn.png",
+    "runtime": "assets/fort/w_thorn.webp",
+    "ratio": "1:1",
+    "minWidth": 1024,
+    "batch": 3,
+    "status": "requested",
+    "safeZone": "Keep focal details away from edges and HUD overlays."
+  },
+  {
+    "id": "w_bow_tower",
+    "source": "fort/w_bow_tower.png",
+    "runtime": "assets/fort/w_bow_tower.webp",
+    "ratio": "1:1",
+    "minWidth": 1024,
+    "batch": 3,
+    "status": "requested",
+    "safeZone": "Keep focal details away from edges and HUD overlays."
+  },
+  {
+    "id": "w_guard",
+    "source": "fort/w_guard.png",
+    "runtime": "assets/fort/w_guard.webp",
+    "ratio": "1:1",
+    "minWidth": 1024,
+    "batch": 3,
+    "status": "requested",
+    "safeZone": "Keep focal details away from edges and HUD overlays."
+  },
+  {
+    "id": "w_iron_thorn",
+    "source": "fort/w_iron_thorn.png",
+    "runtime": "assets/fort/w_iron_thorn.webp",
+    "ratio": "1:1",
+    "minWidth": 1024,
+    "batch": 3,
+    "status": "requested",
+    "safeZone": "Keep focal details away from edges and HUD overlays."
+  },
+  {
+    "id": "w_citadel",
+    "source": "fort/w_citadel.png",
+    "runtime": "assets/fort/w_citadel.webp",
+    "ratio": "1:1",
+    "minWidth": 1024,
+    "batch": 3,
+    "status": "requested",
+    "safeZone": "Keep focal details away from edges and HUD overlays."
+  },
+  {
+    "id": "c_armour",
+    "source": "tokens/c_armour.png",
+    "runtime": "assets/tokens/c_armour.webp",
+    "ratio": "1:1",
+    "minWidth": 1024,
+    "batch": 2,
+    "status": "requested",
+    "safeZone": "Keep focal details away from edges and HUD overlays."
+  },
+  {
+    "id": "c_spikes",
+    "source": "tokens/c_spikes.png",
+    "runtime": "assets/tokens/c_spikes.webp",
+    "ratio": "1:1",
+    "minWidth": 1024,
+    "batch": 2,
+    "status": "requested",
+    "safeZone": "Keep focal details away from edges and HUD overlays."
+  },
+  {
+    "id": "c_bowcraft",
+    "source": "tokens/c_bowcraft.png",
+    "runtime": "assets/tokens/c_bowcraft.webp",
+    "ratio": "1:1",
+    "minWidth": 1024,
+    "batch": 2,
+    "status": "requested",
+    "safeZone": "Keep focal details away from edges and HUD overlays."
+  },
+  {
+    "id": "b_twin_standards",
+    "source": "battlefields/b_twin_standards.png",
+    "runtime": "assets/battlefields/b_twin_standards.webp",
+    "ratio": "16:9",
+    "minWidth": 2560,
+    "batch": 3,
+    "status": "requested",
+    "safeZone": "Keep focal details away from edges and HUD overlays."
+  },
+  {
+    "id": "b_anvil_court",
+    "source": "battlefields/b_anvil_court.png",
+    "runtime": "assets/battlefields/b_anvil_court.webp",
+    "ratio": "16:9",
+    "minWidth": 2560,
+    "batch": 3,
+    "status": "requested",
+    "safeZone": "Keep focal details away from edges and HUD overlays."
+  },
+  {
+    "id": "b_amber_pass",
+    "source": "battlefields/b_amber_pass.png",
+    "runtime": "assets/battlefields/b_amber_pass.webp",
+    "ratio": "16:9",
+    "minWidth": 2560,
+    "batch": 3,
+    "status": "requested",
+    "safeZone": "Keep focal details away from edges and HUD overlays."
+  },
+  {
+    "id": "b_crown_approach",
+    "source": "battlefields/b_crown_approach.png",
+    "runtime": "assets/battlefields/b_crown_approach.webp",
+    "ratio": "16:9",
+    "minWidth": 2560,
+    "batch": 3,
+    "status": "requested",
+    "safeZone": "Keep focal details away from edges and HUD overlays."
+  },
+  {
+    "id": "b_crown",
+    "source": "battlefields/b_crown.png",
+    "runtime": "assets/battlefields/b_crown.webp",
+    "ratio": "16:9",
+    "minWidth": 2560,
+    "batch": 3,
+    "status": "requested",
+    "safeZone": "Keep focal details away from edges and HUD overlays."
+  },
+  {
+    "id": "r_copper_captain",
+    "source": "rivals/r_copper_captain.png",
+    "runtime": "assets/rivals/r_copper_captain.webp",
+    "ratio": "5:7",
+    "minWidth": 1080,
+    "batch": 3,
+    "status": "requested",
+    "safeZone": "Keep face, hands and identifying silhouette inside central 76%; keep bottom 20% quiet."
+  },
+  {
+    "id": "r_twin_standards",
+    "source": "rivals/r_twin_standards.png",
+    "runtime": "assets/rivals/r_twin_standards.webp",
+    "ratio": "5:7",
+    "minWidth": 1080,
+    "batch": 3,
+    "status": "requested",
+    "safeZone": "Keep face, hands and identifying silhouette inside central 76%; keep bottom 20% quiet."
+  },
+  {
+    "id": "r_anvil_warden",
+    "source": "rivals/r_anvil_warden.png",
+    "runtime": "assets/rivals/r_anvil_warden.webp",
+    "ratio": "5:7",
+    "minWidth": 1080,
+    "batch": 3,
+    "status": "requested",
+    "safeZone": "Keep face, hands and identifying silhouette inside central 76%; keep bottom 20% quiet."
+  },
+  {
+    "id": "r_amber_regent",
+    "source": "rivals/r_amber_regent.png",
+    "runtime": "assets/rivals/r_amber_regent.webp",
+    "ratio": "5:7",
+    "minWidth": 1080,
+    "batch": 3,
+    "status": "requested",
+    "safeZone": "Keep face, hands and identifying silhouette inside central 76%; keep bottom 20% quiet."
+  },
+  {
+    "id": "r_crown_keeper",
+    "source": "rivals/r_crown_keeper.png",
+    "runtime": "assets/rivals/r_crown_keeper.webp",
+    "ratio": "5:7",
+    "minWidth": 1080,
+    "batch": 3,
+    "status": "requested",
+    "safeZone": "Keep face, hands and identifying silhouette inside central 76%; keep bottom 20% quiet."
+  },
+  {
+    "id": "m_ironwake",
+    "source": "maps/m_ironwake.png",
+    "runtime": "assets/maps/m_ironwake.webp",
+    "ratio": "16:9",
+    "minWidth": 2560,
+    "batch": 3,
+    "status": "requested",
+    "safeZone": "Keep focal details away from edges and HUD overlays."
+  }
+]

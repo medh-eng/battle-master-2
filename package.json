@@ -1,0 +1,26 @@
+{
+  "name": "battle-master-2",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build --base=./ && node scripts/standalone.mjs",
+    "test": "node --experimental-strip-types --test tests/*.test.mjs",
+    "typecheck": "tsc --noEmit",
+    "check:art": "node scripts/check-art.mjs",
+    "test:browser": "node --experimental-strip-types scripts/smoke.mjs"
+  },
+  "engines": {
+    "node": ">=22.18.0"
+  },
+  "dependencies": {
+    "gsap": "3.13.0",
+    "pixi.js": "8.12.0"
+  },
+  "devDependencies": {
+    "playwright": "1.56.1",
+    "typescript": "5.9.3",
+    "vite": "7.2.2"
+  }
+}
